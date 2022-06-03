@@ -1,6 +1,6 @@
 # Vaccine-Sentiment-Classifier
 
-The purpose of this project is to do a sentiment analysis on tweets about covid19 vaccinations in 3 classes (0-neutral, 1-negative, 2-positive). Todo this, i experimented with 4 different types of models:
+The purpose of this project is to do a sentiment analysis on tweets about covid19 vaccinations in 3 classes (0-neutral, 1-negative, 2-positive). To do this, i experimented with 4 different types of models:
 
 Softmax Regression
 Feed-Forward neural network.
